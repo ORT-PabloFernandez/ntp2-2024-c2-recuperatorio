@@ -23,7 +23,6 @@ Luego de abrir el correo encuentras un mail de tu Líder Técnico con tu primera
 > 1. Conectar el presente front con el backend: Para lo cual crea una pagina, que muestre las primeras 100 ventas, no te preocupes por el estilo por ahora, pero sí que sea prolijo. Los datos que se necesitan de las ventas en esta página son: saleDate, storeLocation y purchaseMethod
 > 2. Necesitamos una página para ver los detalles del cliente de alguna venta. Por lo cual te aconsejo que crees una pagina con un componente customer en el cual se muestren todos los datos del cliente de la compra, ademas de su satisfacción de la compra
 > 3. Necesitamos una pagina que nos muestre el detalle de los productos, solo es necesario saber el nombre, el precio y la cantidad. No te preocupes de los estilos por ahora.
-> 4. Hacelo lo mas lindo que puedas, si puedes agregar imagenes para identificar los productos mucho mejor, si puedes agregar iconos para hacerlo mas amistoso mucho mejor. Si puede agregar paginación para traer todas las ventas, no solo 100 te ganas mucho respeto con el equipo 💪
 
 > Desde ya muchas gracias por la colaboración! 😉 como te comente en la entrevista soy muy detallista en la prolijidad del codigo y la performance cada detalle cuenta, sin embargo si no estas seguro, es mejor que lo resuelvas como puedas y me dejes notas en el readme.md del repo, para que yo pueda probar.
 
