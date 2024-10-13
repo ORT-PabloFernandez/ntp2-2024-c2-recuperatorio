@@ -21,8 +21,9 @@ Luego de abrir el correo encuentras un mail de tu Líder Técnico con tu primera
 > ### TUS TAREAS SON LAS SIGUIENTES POR ORDEN DE PRIORIDAD
 >
 > 1. Conectar el presente front con el backend: Para lo cual crea una pagina, que muestre las primeras 100 ventas, no te preocupes por el estilo por ahora, pero sí que sea prolijo. Los datos que se necesitan de las ventas en esta página son: saleDate, storeLocation y purchaseMethod
-> 2. Necesitamos una página para ver los detalles del cliente de alguna venta. Por lo cual te aconsejo que crees una pagina con un componente customer en el cual se muestren todos los datos del cliente de la compra, ademas de su satisfacción de la compra
-> 3. Necesitamos una pagina que nos muestre el detalle de los productos, solo es necesario saber el nombre, el precio y la cantidad. No te preocupes de los estilos por ahora.
+> 2. Necesitamos una página para ver los detalles del cliente de las ventas. Por lo cual te aconsejo que crees una pagina con un componente customer en el cual se muestren todos los datos del cliente, ademas de su satisfacción de la compra
+> 3. Necesitamos una pagina que nos muestre el detalle de los items (productos), solo es necesario saber el nombre, el precio y la cantidad. No te preocupes de los estilos por ahora.
+> 4. Por ultimo, en el componente que muestra los items, se requiere hacer el total del importe. Esto es cantidad por precio.
 
 > Desde ya muchas gracias por la colaboración! 😉 como te comente en la entrevista soy muy detallista en la prolijidad del codigo y la performance cada detalle cuenta, sin embargo si no estas seguro, es mejor que lo resuelvas como puedas y me dejes notas en el readme.md del repo, para que yo pueda probar.
 
